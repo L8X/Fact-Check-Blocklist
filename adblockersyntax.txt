@@ -1,4 +1,3 @@
-# Fact checkers cause more harm than good, and are almost always biased.
 ||poynter.org^$important
 ||politifact.com^$important
 ||factcheck.org^$important
